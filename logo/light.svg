@@ -5,7 +5,7 @@
     </clipPath>
   </defs>
   <g clip-path="url(#logo)">
-          <rect fill="none" width="1920" height="1920"/>
+          <rect fill="white" width="1920" height="1920"/>
     <g transform="scale(4.8)">
       <g font-family="none" font-size="none" font-weight="none" stroke-miterlimit="10" style="mix-blend-mode:normal" text-anchor="none">
 <g fill="#424242" id="symbol" stroke="#424242">
