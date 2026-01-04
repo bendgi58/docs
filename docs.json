@@ -9,7 +9,7 @@
   },
   "favicon": "favicon.svg",
   "navigation": {
-        "logoHeight": 80,
+        "logoHeight": 120,
     "tabs": [
       {
         "tab": "Guides",
